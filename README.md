@@ -12,8 +12,7 @@ The UI will represent successful and failure execution of the query.
 An analysis was made using various charts on the performance of bulk loading vs single insertion.
 
 ### Technology Stack
-Front End : PHP
-My Sql work bench
+PHP and MySql work bench
 
 ### Project Deliverable:
 
