@@ -4,7 +4,7 @@
 This Project was developed as a part of course requirement Database Management systems in our Master's Degree.
 
 ### About :
-It is a simple project, where we design a UI to query the Database with multiple options like Single Insertion, Bulk loading, Delete the data, editor to query the Database ..etc.
+Developed a graphical user interface to compare insertion techniques like Single Insertion, Multi line Insertion, Load Data Insertion with various datasets.  
 
 The UI will represent successful and failure execution of the query.
 
